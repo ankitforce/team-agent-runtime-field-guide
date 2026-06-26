@@ -1,7 +1,7 @@
 {
   "name": "Team Agent Runtime Field Guide",
   "description": "Companion artifacts for designing accountable AI agents inside team workflows.",
-  "canonical_article_url": "TBD",
+  "canonical_article_url": "https://ankitkumar3514.substack.com/p/team-agent-runtime",
   "public_repo_url": "https://github.com/ankitforce/team-agent-runtime-field-guide",
   "start_here": [
     "README.md",

@@ -2,7 +2,7 @@
 
 Companion artifacts for the Substack essay: "The Team Agent Is Replacing the Chatbot."
 
-Article URL: TBD
+Article URL: https://ankitkumar3514.substack.com/p/team-agent-runtime
 
 ## What This Is
 
