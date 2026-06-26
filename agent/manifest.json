@@ -1,0 +1,19 @@
+{
+  "name": "Team Agent Runtime Field Guide",
+  "description": "Companion artifacts for designing accountable AI agents inside team workflows.",
+  "canonical_article_url": "TBD",
+  "public_repo_url": "https://github.com/ankitforce/team-agent-runtime-field-guide",
+  "start_here": [
+    "README.md",
+    "checklists/team-agent-runtime-checklist.md",
+    "templates/agent-ready-task-packet.md",
+    "docs/team-agent-runtime-taxonomy.md",
+    "sources.md"
+  ],
+  "allowed_tasks": [
+    "draft_runtime_review",
+    "create_task_packet",
+    "build_risk_checklist",
+    "summarize_sources"
+  ]
+}
